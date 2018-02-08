@@ -1,0 +1,16 @@
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.Test.deps.json
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.Test.runtimeconfig.json
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.Test.runtimeconfig.dev.json
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.Test.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.Test.pdb
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\bin\Debug\netcoreapp2.0\Figure.pdb
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.csprojResolveAssemblyReference.cache
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.csproj.CoreCompileInputs.cache
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.AssemblyInfoInputs.cache
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.AssemblyInfo.cs
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure.Test\obj\Debug\netcoreapp2.0\Figure.Test.pdb

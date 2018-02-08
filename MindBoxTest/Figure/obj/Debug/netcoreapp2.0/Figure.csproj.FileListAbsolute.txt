@@ -1,0 +1,8 @@
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\bin\Debug\netcoreapp2.0\Figure.deps.json
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\bin\Debug\netcoreapp2.0\Figure.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\bin\Debug\netcoreapp2.0\Figure.pdb
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\obj\Debug\netcoreapp2.0\Figure.csproj.CoreCompileInputs.cache
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\obj\Debug\netcoreapp2.0\Figure.AssemblyInfoInputs.cache
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\obj\Debug\netcoreapp2.0\Figure.AssemblyInfo.cs
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\obj\Debug\netcoreapp2.0\Figure.dll
+C:\Users\ekondrateva\Desktop\MindBoxTest\Figure\obj\Debug\netcoreapp2.0\Figure.pdb
